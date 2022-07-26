@@ -188,7 +188,7 @@ heatmap<-pheatmap(log10(heatmap_data), cluster_rows = TRUE, cluster_cols = FALSE
                   fontsize_col = 6,
                   fontsize_row = 10,
                   drop_levels = TRUE,
-                  main = "Log10 of Differentially Abundant Bacterial Genera",
+                  main = "Log10 of Differentially Abundant Viruses",
                   labels_row = as.expression(newnames_row),
                   labels_col = as.expression(newnames_col))
 heatmap<-as.ggplot(heatmap)
