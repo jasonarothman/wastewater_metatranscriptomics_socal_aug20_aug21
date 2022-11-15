@@ -67,7 +67,7 @@ p5_mds_8plants<-p5_mds
 p5_mds_8plants
 
 #PLOTTING 3 PLANTS AUG20-AUG21
-data<-read.table("all_samples_combined_bracken_bacteria_genus_counts_aug20_aug21.txt", sep = '\t', quote = "", 
+data<-read.table("all_samples_combined_bracken_bacteria_species_counts_aug20_aug21.txt", sep = '\t', quote = "", 
                  header = TRUE, row.names = 1)
 
 var<-read.table("metadata_all_sewage_aug20_aug21.txt", header = TRUE, row.names = 1, sep ='\t')
