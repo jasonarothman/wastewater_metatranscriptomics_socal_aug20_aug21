@@ -1,6 +1,7 @@
 # wastewater_metatranscriptomics
 
 This repository contains representative code and scripts used to analyze data included in the manuscript "Longitudinal metatranscriptomic sequencing of Southern California wastewater representing 16 million people from August 2020-21 reveals widespread transcription of antibiotic resistance genes."
+Now published in Water Research here: https://www.sciencedirect.com/science/article/abs/pii/S0043135422013665?via%3Dihub
 
 "github_R_scripts" contains R scripts used to analyze the data and generate figures.
 
